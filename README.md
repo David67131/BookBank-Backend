@@ -1,9 +1,9 @@
 # Project name: BookBank
 
 ## Programmer  
-Da Wei Song (6228447)    
-Zhe Qi Shen (6238426)
-Hong Zhen Chen (6328420)
+Da Wei Song (6228447)        
+Zhe Qi Shen (6238426)  
+Hong Zhen Chen (6328420)  
  
 ## Project description  
 BookBank is a web application that allows users to browse and purchase books. The application will have two main entities: books and customers. Customers will be able to create an account, browse books, add them to a cart, and complete the purchase.
