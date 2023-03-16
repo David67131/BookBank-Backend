@@ -16,10 +16,10 @@ This is a simple application built using Spring Boot and Spring Data JPA.
 
 ## How to run the application?
 To run this application on IntelliJ IDEA, follow these steps:  
-1. Open IntelliJ IDEA and select File > New > Project from Existing Sources.  
-2. Navigate to the root directory of the cloned repository and select the build.gradle file. Click on OK to import the project.  
-3. Wait for the dependencies to be downloaded and for the project to be built.  
-4. Open the `src/main/java/com/example/book/BookApplication.java` file and run the main method by clicking on the green arrow icon next to it or by right-clicking on it and selecting Run 'BookApplication.main()'.  
-5. Once the application is running, you can access the REST API by sending HTTP requests to http://localhost:9999/*.  
+1, Open IntelliJ IDEA and select File > New > Project from Existing Sources.  
+2, Navigate to the root directory of the cloned repository and select the build.gradle file. Click on OK to import the project.  
+3, Wait for the dependencies to be downloaded and for the project to be built.  
+4, Open the `src/main/java/com/example/book/BookApplication.java` file and run the main method by clicking on the green arrow icon next to it or by right-clicking on it and selecting Run 'BookApplication.main()'.  
+5, Once the application is running, you can access the REST API by sending HTTP requests to http://localhost:9999/*.  
 
 # Finally, I wish you a happy use of this program, and thank you for your use and support!
