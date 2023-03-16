@@ -1,0 +1,14 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    url: jdbc:mysql://huawei:3306/book?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    open-in-view: true
