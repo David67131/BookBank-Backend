@@ -8,7 +8,8 @@ Hong Zhen Chen (6328420)
 ## Project description
 BookBank is a book purchasing website that allows buyers to use together with sellers and authors. Sellers can register books and record bills using the buyer's purchase information. Authors can add their own information, and buyers can add accounts and choose books they like to purchase.
 
-This is the backend repository. To access the frontend repository, please click:
+This is the backend repository. To access the frontend repository, please click:  
+https://github.com/David67131/BookBank-Frontend
   
 ## What is this application?
 This is a simple application built using Spring Boot and Spring Data JPA.  
