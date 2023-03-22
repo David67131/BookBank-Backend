@@ -15,7 +15,7 @@ https://github.com/David67131/BookBank-Frontend
 This is a simple application built using Spring Boot and Spring Data JPA.  
 
 ## How to run the application?
-To run this application on IntelliJ IDEA, follow these steps:  
+To run this application on IntelliJ IDEA (IDEA automatically identifies dependencies and installs them automatically), follow these steps:  
 1, Open IntelliJ IDEA and select File > New > Project from Existing Sources.  
 2, Navigate to the root directory of the cloned repository and select the build.gradle file. Click on OK to import the project.  
 3, Wait for the dependencies to be downloaded and for the project to be built.  
